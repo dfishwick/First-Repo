@@ -1,0 +1,9 @@
+name: e102gamma-env
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python=3.12.8
+  - pip
